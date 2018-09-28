@@ -19,9 +19,19 @@ ff02::3 ip6-allhosts
 # End of custom host records.
 #=====================================
 
-0.0.0.0 kissasian.sh
-0.0.0.0 kissasian.ch
+
+# Animes/Manga/Webcomic
+
 0.0.0.0 kissanime.ru
 0.0.0.0 kissanime.su
+0.0.0.0 www.masterani.me
+0.0.0.0 anymeapp.com
+0.0.0.0 9anime.to
+
+
+# TV Series or Movies
+
+0.0.0.0 kissasian.sh
+0.0.0.0 kissasian.ch
 
 
