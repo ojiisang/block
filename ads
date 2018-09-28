@@ -20,3 +20,5 @@ ff02::3 ip6-allhosts
 #=====================================
 
 0.0.0.0 xqkzsifxgv.com
+0.0.0.0 uod2quk646.com
+0.0.0.0 vidstreaming.io
