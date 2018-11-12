@@ -73,7 +73,6 @@ ff02::3 ip6-allhosts
 0.0.0.0	mystartab.com
 0.0.0.0	games.blpmovies.com
 0.0.0.0	blpmovies.com
-
 0.0.0.0 lp.blpmovies.com
 0.0.0.0 www.easydocmerge.com
 0.0.0.0 screenwatch.yournewtab.com
@@ -119,5 +118,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www1.hdgo.to
 0.0.0.0 putlockers.fm
 0.0.0.0 www.solarmovies.com
+0.0.0.0 www.mynewbritain.com
 
 
