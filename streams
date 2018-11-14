@@ -36,8 +36,10 @@ ff02::3 ip6-allhosts
 
 0.0.0.0	kissasian.ch
 0.0.0.0	kissasian.sh
+0.0.0.0 kissasian.es
 0.0.0.0	www.kissasian.ch
 0.0.0.0	www.kissasian.sh
+0.0.0.0 www.kissasian.es
 
 # Ads
 
