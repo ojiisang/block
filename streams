@@ -34,11 +34,11 @@ ff02::3 ip6-allhosts
 
 # TV Series or Movies
 
-0.0.0.0	kissasian.ch
-0.0.0.0	kissasian.sh
+0.0.0.0 kissasian.ch
+0.0.0.0 kissasian.sh
 0.0.0.0 kissasian.es
-0.0.0.0	www.kissasian.ch
-0.0.0.0	www.kissasian.sh
+0.0.0.0 www.kissasian.ch
+0.0.0.0 www.kissasian.sh
 0.0.0.0 www.kissasian.es
 
 # Ads
@@ -49,33 +49,33 @@ ff02::3 ip6-allhosts
 
 # From Host File
 
-0.0.0.0	facebook.com
-0.0.0.0	fb.com
-0.0.0.0	ja-jp.facebook.com
-0.0.0.0	m.facebook.com
-0.0.0.0	mobile.facebook.com
-0.0.0.0	www.facebook.com
-0.0.0.0	www.fb.com
-0.0.0.0	www.youtube.com
-0.0.0.0	youtube.com
-0.0.0.0	youtube-ui.l.google.com
-0.0.0.0	proxysite.co
-0.0.0.0	www.proxysite.co
-0.0.0.0	proxysite.com
-0.0.0.0	www.proxysite.com
-0.0.0.0	free.everydaylookup.com
-0.0.0.0	socialnewpages.com
-0.0.0.0	download.bringmesports.com
-0.0.0.0	constintptr.com
-0.0.0.0	cobalten.com
-0.0.0.0	sport.blpmovies.com
-0.0.0.0	gz8zzc.nbtrk0.com
-0.0.0.0	fromdoctopdf.com
-0.0.0.0	free.anytimeastrology.com
-0.0.0.0	www.searchfortplus.com
-0.0.0.0	mystartab.com
-0.0.0.0	games.blpmovies.com
-0.0.0.0	blpmovies.com
+0.0.0.0 facebook.com
+0.0.0.0 fb.com
+0.0.0.0 ja-jp.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 mobile.facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 www.fb.com
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 proxysite.co
+0.0.0.0 www.proxysite.co
+0.0.0.0 proxysite.com
+0.0.0.0 www.proxysite.com
+0.0.0.0 free.everydaylookup.com
+0.0.0.0 socialnewpages.com
+0.0.0.0 download.bringmesports.com
+0.0.0.0 constintptr.com
+0.0.0.0 cobalten.com
+0.0.0.0 sport.blpmovies.com
+0.0.0.0 gz8zzc.nbtrk0.com
+0.0.0.0 fromdoctopdf.com
+0.0.0.0 free.anytimeastrology.com
+0.0.0.0 www.searchfortplus.com
+0.0.0.0 mystartab.com
+0.0.0.0 games.blpmovies.com
+0.0.0.0 blpmovies.com
 0.0.0.0 lp.blpmovies.com
 0.0.0.0 www.easydocmerge.com
 0.0.0.0 screenwatch.yournewtab.com
@@ -122,5 +122,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 putlockers.fm
 0.0.0.0 www.solarmovies.com
 0.0.0.0 www.mynewbritain.com
-
+0.0.0.0 www.freelotto.com
 
