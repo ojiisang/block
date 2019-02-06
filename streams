@@ -41,8 +41,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kissasian.ch
 0.0.0.0 www.kissasian.sh
 0.0.0.0 www.kissasian.es
-
-
+0.0.0.0 netflix.com
+0.0.0.0 vui.com
 
 # Ads
 
