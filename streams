@@ -24,12 +24,17 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 kissanime.ru
 0.0.0.0 kissanime.su
+0.0.0.0 www.kiss-anime.ws
+0.0.0.0 kiss-anime.ws
+0.0.0.0 www.watch-anime.org
+0.0.0.0 watch-anime.org
 0.0.0.0 www.masterani.me
 0.0.0.0 anymeapp.com
 0.0.0.0 9anime.to
 0.0.0.0 www1.kissanime.pro
 0.0.0.0 ww3.kissanime.wf
 0.0.0.0 viewasian.tv
+
 
 # Streams
 
