@@ -143,31 +143,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 everydaypower.com
 0.0.0.0 www.eventgreetings.com
 0.0.0.0 bestlifeonline.com
-
-
-# Emails
-
-0.0.0.0 www.gmail.com
-0.0.0.0 gmail.com
-0.0.0.0 mail.google.com
-0.0.0.0 ymail.com
-0.0.0.0 mail.yahoo.com
-0.0.0.0 login.yahoo.com
-0.0.0.0 www.outlook.com
-0.0.0.0 outlook.com
-0.0.0.0 outlook.live.com
-0.0.0.0 mail.com
-0.0.0.0 www.mail.com
-0.0.0.0 www.protonmail.com
-0.0.0.0 protonmail.com
-0.0.0.0 login.aol.com
-0.0.0.0 mail.aol.com
-0.0.0.0 mail.yandex.com
-0.0.0.0 tutanota.com
-0.0.0.0 www.icloud.com
-0.0.0.0 icloud.com
-0.0.0.0 www.fastmail.com
-0.0.0.0 fastmail.com
-0.0.0.0 telegram.org
-0.0.0.0 www.telegram.org
-
