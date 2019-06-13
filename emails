@@ -1,1 +1,46 @@
-0.0.0.0 yahoomail.com
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+
+# End of custom host records.
+#=====================================
+
+# Emails
+
+0.0.0.0 www.gmail.com
+0.0.0.0 gmail.com
+0.0.0.0 mail.google.com
+0.0.0.0 ymail.com
+0.0.0.0 mail.yahoo.com
+0.0.0.0 login.yahoo.com
+0.0.0.0 www.outlook.com
+0.0.0.0 outlook.com
+0.0.0.0 outlook.live.com
+0.0.0.0 mail.com
+0.0.0.0 www.mail.com
+0.0.0.0 www.protonmail.com
+0.0.0.0 protonmail.com
+0.0.0.0 login.aol.com
+0.0.0.0 mail.aol.com
+0.0.0.0 mail.yandex.com
+0.0.0.0 tutanota.com
+0.0.0.0 www.icloud.com
+0.0.0.0 icloud.com
+0.0.0.0 www.fastmail.com
+0.0.0.0 fastmail.com
+0.0.0.0 telegram.org
+0.0.0.0 www.telegram.org
