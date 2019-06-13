@@ -46,3 +46,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 9icmzvn6.website
 0.0.0.0 free.videodownloadconverter.com
 
+0.0.0.0 www.thinkingjuice.co.uk
+0.0.0.0 thinkingjuice.co.uk
+0.0.0.0 www.cartridgesave.co.uk
+
