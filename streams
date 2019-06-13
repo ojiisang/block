@@ -168,5 +168,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 icloud.com
 0.0.0.0 www.fastmail.com
 0.0.0.0 fastmail.com
-
+0.0.0.0 telegram.org
+0.0.0.0 www.telegram.org
 
