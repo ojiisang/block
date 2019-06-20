@@ -22,7 +22,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xqkzsifxgv.com
 0.0.0.0 uod2quk646.com
 0.0.0.0 vidstreaming.io
-
 0.0.0.0 redtube.com
 0.0.0.0 hentaihaven.org
 0.0.0.0 westsluts.com
@@ -45,27 +44,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 free.fromdoctopdf.com
 0.0.0.0 9icmzvn6.website
 0.0.0.0 free.videodownloadconverter.com
-
 0.0.0.0 www.thinkingjuice.co.uk
 0.0.0.0 thinkingjuice.co.uk
 0.0.0.0 www.cartridgesave.co.uk
-
-
-
-
-# Ads
-
 0.0.0.0 www.thinkingjuice.co.uk
 0.0.0.0 thinkingjuice.co.uk
 0.0.0.0 www.cartridgesave.co.uk
-
-0.0.0.0 facebook.com
-0.0.0.0 fb.com
-0.0.0.0 ja-jp.facebook.com
-0.0.0.0 m.facebook.com
-0.0.0.0 mobile.facebook.com
-0.0.0.0 www.facebook.com
-0.0.0.0 www.fb.com
 0.0.0.0 proxysite.co
 0.0.0.0 www.proxysite.co
 0.0.0.0 proxysite.com
@@ -109,9 +93,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 everydaypower.com
 0.0.0.0 www.eventgreetings.com
 0.0.0.0 bestlifeonline.com
-
-
-
-
-
-
