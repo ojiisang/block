@@ -93,3 +93,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 everydaypower.com
 0.0.0.0 www.eventgreetings.com
 0.0.0.0 bestlifeonline.com
+
+0.0.0.0 www.genmirror.com
+0.0.0.0 genmirror.com
