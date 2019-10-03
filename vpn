@@ -43,8 +43,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 proxfree.com
 0.0.0.0 www.proxysite.com
 0.0.0.0 proxysite.com
-
-
+0.0.0.0 www.genmirror.com
+0.0.0.0 genmirror.com
+0.0.0.0 prx1.genmirror.com
+0.0.0.0 prx2.genmirror.com
+0.0.0.0 prx3.genmirror.com
 
 
 
