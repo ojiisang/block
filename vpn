@@ -48,6 +48,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 prx1.genmirror.com
 0.0.0.0 prx2.genmirror.com
 0.0.0.0 prx3.genmirror.com
+0.0.0.0 www.expressvpn.com
+0.0.0.0 expressvpn.com
 
 
 
