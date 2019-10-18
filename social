@@ -35,3 +35,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.facebook.com/wechatapp/
 0.0.0.0 www.messenger.com
 0.0.0.0 account.viber.com/en/login
+0.0.0.0 viber.com
+0.0.0.0 www.viber.com
