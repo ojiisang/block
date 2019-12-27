@@ -50,7 +50,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 prx3.genmirror.com
 0.0.0.0 www.expressvpn.com
 0.0.0.0 expressvpn.com
-
+0.0.0.0 chrome.google.com/webstore/category/extensions
+0.0.0.0 addons.mozilla.org
+0.0.0.0 addons.thunderbird.net
+0.0.0.0 microsoftedge.microsoft.com/addons/category/Edge-Extensions
 
 
 
