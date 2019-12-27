@@ -42,3 +42,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.instagram.com
 0.0.0.0 instagram.com
 
+# Chat
+
+0.0.0.0 www.kik.com
+0.0.0.0 kik.com
+0.0.0.0 www.wechat.com
+0.0.0.0 wechat.com
+0.0.0.0 www.groupme.com
+0.0.0.0 groupme.com
+0.0.0.0 www.kakaocorp.com
+0.0.0.0 kakaocorp.com
+0.0.0.0 accounts.snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.voxer.com
+0.0.0.0 voxer.com
+
