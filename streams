@@ -136,4 +136,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.tv.com
 0.0.0.0 abc.com
 0.0.0.0 www.abc.com
+0.0.0.0 edition.cnn.com/videos
+0.0.0.0 www.edition.cnn.com/videos
 
