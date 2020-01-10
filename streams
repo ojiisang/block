@@ -37,6 +37,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.animefreak.tv
 0.0.0.0 animefreak.tv
 
+
 # Streams
 
 0.0.0.0 www.youtube.com
@@ -115,4 +116,24 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.d.tube
 0.0.0.0 9gag.com
 0.0.0.0 www.9gag.com
+0.0.0.0 liveleak.com
+0.0.0.0 www.liveleak.com
+0.0.0.0 break.com
+0.0.0.0 www.break.com
+0.0.0.0 vine.co
+0.0.0.0 www.vine.co
+0.0.0.0 flickr.com
+0.0.0.0 www.flickr.com
+0.0.0.0 video.ibm.com
+0.0.0.0 www.video.ibm.com
+0.0.0.0 vevo.com
+0.0.0.0 www.vevo.com
+0.0.0.0 hulu.com
+0.0.0.0 www.hulu.com
+0.0.0.0 vudu.com
+0.0.0.0 www.vudu.com
+0.0.0.0 tv.com
+0.0.0.0 www.tv.com
+0.0.0.0 abc.com
+0.0.0.0 www.abc.com
 
