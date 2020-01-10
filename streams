@@ -86,3 +86,33 @@ ff02::3 ip6-allhosts
 0.0.0.0 watchmovie.io
 0.0.0.0 pinoymoviess.su
 0.0.0.0 www.pinoymoviess.su
+
+# Youtube Alternatives
+
+0.0.0.0 makeuseof.com
+0.0.0.0 www.makeuseof.com
+0.0.0.0 fossbytes.com
+0.0.0.0 www.fossbytes.com
+0.0.0.0 freemake.com
+0.0.0.0 wwww.freemake.com
+0.0.0.0 vimeo.com
+0.0.0.0 www.vimeo.com
+0.0.0.0 metacafe.com
+0.0.0.0 www.metacafe.com
+0.0.0.0 dailymotion.com
+0.0.0.0 www.dailymotion.com
+0.0.0.0 veoh.com
+0.0.0.0 www.veoh.com
+0.0.0.0 archive.org
+0.0.0.0 www.archive.org
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 open-video.org
+0.0.0.0 www.open-video.org
+0.0.0.0 ted.com
+0.0.0.0 www.ted.com
+0.0.0.0 d.tube
+0.0.0.0 www.d.tube
+0.0.0.0 9gag.com
+0.0.0.0 www.9gag.com
+
