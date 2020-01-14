@@ -55,8 +55,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 addons.thunderbird.net
 0.0.0.0 microsoftedge.microsoft.com/addons/category/Edge-Extensions
 
+# Websites
 
 
+0.0.0.0 opera.com
+0.0.0.0 www.opera.com
 
 
 
