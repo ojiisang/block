@@ -60,6 +60,11 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 opera.com
 0.0.0.0 www.opera.com
+0.0.0.0 chrome.google.com/webstore
+0.0.0.0 addons.mozilla.org
+0.0.0.0 hola.org
+0.0.0.0 www.hola.org
+
 
 
 
