@@ -64,7 +64,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 addons.mozilla.org
 0.0.0.0 hola.org
 0.0.0.0 www.hola.org
-
+0.0.0.0 torchbrowser.com
+0.0.0.0 www.torchbrowser.com
+0.0.0.0 www.filehippo.com
+0.0.0.0 filehippo.com
 
 
 
