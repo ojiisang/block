@@ -70,7 +70,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 filehippo.com
 0.0.0.0 torproject.org
 0.0.0.0 www.torproject.org
-
+0.0.0.0 mozilla.org
+0.0.0.0 www.mozilla.org
 
 
 
