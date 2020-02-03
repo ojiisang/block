@@ -54,6 +54,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 addons.mozilla.org
 0.0.0.0 addons.thunderbird.net
 0.0.0.0 microsoftedge.microsoft.com/addons/category/Edge-Extensions
+0.0.0.0 ultrasurf.us
+0.0.0.0 www.ultrasurf.us
 
 # Websites
 
